@@ -1,0 +1,55 @@
+
+.blk-bg{
+    background: black;
+    height: 20vh;
+    width: 10vh;
+}
+.lightpole{
+ background: rgb(29, 28, 28);
+ height: 20vh;
+    width: 10vh;
+    text-align: center;
+    margin-left: 41rem;
+}
+.stoplight{
+    background:rgb(46, 44, 44);
+    margin-left: 35rem;
+    height: 65vh;
+    width: 30vh;
+}
+.redlight{
+    background: red;
+    height: 20vh;
+    width: 20vh;
+    border-radius: 50%;
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+    
+}
+.yellowlight {
+    background: yellow;
+    height: 20vh;
+    width: 20vh;
+    border-radius: 50%;
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+}
+.greenlight {
+    background: green;
+    height: 20vh;
+    width: 20vh;
+    border-radius: 50%;
+    margin-left: 3rem;
+}
+.redlight:hover {
+background: rgb(255, 99, 99);
+box-shadow: 0rem 0rem 4rem rgb(255, 128, 128);
+}
+.yellowlight:hover {
+background: rgb(255, 255, 115);
+box-shadow: 0rem 0rem 4rem rgb(255, 255, 131);
+}
+.greenlight:hover {
+background: rgb(129, 255, 129);
+box-shadow: 0rem 0rem 4rem rgb(139, 255, 139);
+}
