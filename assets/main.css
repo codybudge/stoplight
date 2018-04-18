@@ -18,7 +18,7 @@
     width: 30vh;
 }
 .redlight{
-    background: red;
+    background: rgb(70, 23, 23);
     height: 20vh;
     width: 20vh;
     border-radius: 50%;
@@ -27,7 +27,7 @@
     
 }
 .yellowlight {
-    background: yellow;
+    background: rgb(58, 58, 22);
     height: 20vh;
     width: 20vh;
     border-radius: 50%;
@@ -35,7 +35,7 @@
     margin-bottom: 1rem;
 }
 .greenlight {
-    background: green;
+    background: rgb(18, 59, 18);
     height: 20vh;
     width: 20vh;
     border-radius: 50%;
